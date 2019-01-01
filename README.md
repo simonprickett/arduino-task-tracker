@@ -8,6 +8,8 @@ Here's a video of it working...
 
 [![video](tasktracker.png)](https://www.youtube.com/watch?v=BcS5LLRLeBo)
 
+You can also read a more complete build description [over on Medium](https://medium.com/@simon_prickett/building-a-task-tracker-with-arduino-and-led-arcade-buttons-6d9c7a2f5243).
+
 This makes use of the [Bounce 2 button debouncing library](http://thomasfredericks.github.io/Bounce2/files/index.html) for Arduino.
 
 The code is intentionally simpler than perhaps it could be, as the target audience was my 7 year old son.
